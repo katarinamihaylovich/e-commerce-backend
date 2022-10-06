@@ -21,7 +21,7 @@ I accomplished most of this by creating API routes (in the routes folder) for al
 6. Insomnia
 
 ## Link to Video Walkthrough:
-
+https://drive.google.com/file/d/1wq2_iejCKu7T168sYoqn7dXPgmB8PaCd/view
 
 ## Screenshots:
 ![](/images/insomnia1.png)
